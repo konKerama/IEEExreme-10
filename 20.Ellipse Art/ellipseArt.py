@@ -1,0 +1,10 @@
+t=int(input())
+for i in range(0,t):
+    num=int(input())
+    string=input()
+    a=string.split(" ",5)
+    x1=int(a[0])
+    y1=int(a[1])
+    x2=int(a[2])
+    y2=int(a[3])
+    r=int(a[4])
